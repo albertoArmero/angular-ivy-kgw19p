@@ -1,0 +1,10 @@
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+scandit-picker {
+  /* to see the border of the scanner even if video fit is set to contain */
+  border: 1px solid darkseagreen;
+}
